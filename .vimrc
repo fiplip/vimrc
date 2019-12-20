@@ -45,4 +45,7 @@ set background=dark
 
 " The following are commented out as they cause vim to behave a lot
 " differently from regular Vi. They are highly recommended though.
-"set showcmd            " Show (partial) command in status line.
+set showcmd            " Show (partial) command in status line.
+
+" Activate relative numbers. Use set nu for ordinay line numbers. Use rnu for relative.
+set nu
